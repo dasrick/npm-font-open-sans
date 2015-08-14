@@ -25,3 +25,8 @@ $ npm i npm-font-open-sans --save
 ## Source of font files
 
 [Open Sans at FontFaceKit](https://github.com/FontFaceKit/open-sans)
+
+
+## License
+
+Fonts: Licensed under [Apache 2.0](https://github.com/dasrick/npm-font-open-sans/blob/master/LICENSE)
