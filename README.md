@@ -19,7 +19,15 @@ $ npm i npm-font-open-sans --save
 
 ## Usage
 
-...
+This a sample for usage in a LESS file:
+
+```
+@import '../../../node_modules/npm-font-open-sans/open-sans';
+@FontPathOpenSans: "../fonts/open-sans";
+```
+
+First import the LESS file of the font and after this overwrite the default path. That's it ...
+
 
 
 ## Source of font files
