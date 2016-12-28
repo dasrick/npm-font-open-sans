@@ -1,9 +1,11 @@
-# npm package of Open Sans
+[![github tag][github-tag-image]][github-tag-url]
+[![npm version][npm-version-image]][npm-version-url]
+[![npm downloads][npm-downloads-image]][npm-downloads-url]
+[![License][license-image]][license-url]
 
-[![GitHub version](https://badge.fury.io/gh/dasrick%2Fnpm-font-open-sans.svg)](http://badge.fury.io/gh/dasrick%2Fnpm-font-open-sans)
-[![npm version](https://img.shields.io/npm/v/npm-font-open-sans.svg)](https://www.npmjs.com/package/npm-font-open-sans)
-[![npm downloads](https://img.shields.io/npm/dm/npm-font-open-sans.svg)](https://www.npmjs.com/package/npm-font-open-sans)
+***
 
+# npm package of Open Pro
 
 Open Sans is a humanist sans serif typeface designed by Steve Matteson.
 
@@ -38,3 +40,16 @@ First import the LESS file of the font and after this overwrite the default path
 ## License
 
 Fonts: Licensed under [Apache 2.0](https://github.com/dasrick/npm-font-open-sans/blob/master/LICENSE)
+
+***
+
+[github-tag-image]: https://img.shields.io/github/tag/dasrick/npm-font-open-sans.svg?style=flat-square
+[github-tag-url]: https://github.com/dasrick/npm-font-open-sans
+
+[npm-version-image]: https://img.shields.io/npm/v/npm-font-open-sans.svg?style=flat-square
+[npm-version-url]: https://www.npmjs.com/package/npm-font-open-sans
+[npm-downloads-image]: https://img.shields.io/npm/dm/npm-font-open-sans.svg?style=flat-square
+[npm-downloads-url]: https://www.npmjs.com/package/npm-font-open-sans
+
+[license-image]: https://img.shields.io/github/license/dasrick/npm-font-open-sans.svg?style=flat-square
+[license-url]: https://github.com/dasrick/npm-font-open-sans/blob/master/LICENSE
