@@ -1,7 +1,7 @@
 {
   "name": "npm-font-open-sans",
   "version": "1.0.1",
-  "description": "Open Sans font family",
+  "description": "Open Sans font family - incl. usage of CSS, SCSS, LESS",
   "author": {
     "name": "Steve Matteson"
   },
@@ -17,8 +17,13 @@
   },
   "keywords": [
     "font",
+    "fontface",
     "open",
-    "sans"
+    "sans",
+    "css",
+    "sass",
+    "scss",
+    "less"
   ],
   "license": "Apache-2.0",
   "bugs": {
