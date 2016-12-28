@@ -20,7 +20,7 @@
     "open",
     "sans"
   ],
-  "license": "Apache License version 2.0",
+  "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/dasrick/npm-font-open-sans/issues"
   },
