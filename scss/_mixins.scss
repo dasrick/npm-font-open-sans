@@ -1,0 +1,13 @@
+@mixin font-face($FontName, $FontPath, $FontType, $weight: 400, $style: normal) {
+  @font-face {
+    font-family: quote($FontName);
+    font-weight: $weight;
+    font-style: unquote($style);
+    src: url('#{$FontPath}/#{$FontType}/OpenSans-#{$FontType}.eot');
+    src: url('#{$FontPath}/#{$FontType}/OpenSans-#{$FontType}.eot?#iefix') format('embedded-opentype'),
+    url('#{$FontPath}/#{$FontType}/OpenSans-#{$FontType}.woff2') format('woff2'),
+    url('#{$FontPath}/#{$FontType}/OpenSans-#{$FontType}.woff') format('woff'),
+    url('#{$FontPath}/#{$FontType}/OpenSans-#{$FontType}.ttf') format('truetype'),
+    url('#{$FontPath}/#{$FontType}/OpenSans-#{$FontType}.svg#OpenSansLight') format('svg');
+  }
+}

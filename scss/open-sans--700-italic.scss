@@ -1,0 +1,4 @@
+@import "variables";
+@import "mixins";
+
+@include font-face($FontName, $FontPathOpenSans, $FontType-700-italic, 700, italic);
