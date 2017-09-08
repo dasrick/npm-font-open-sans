@@ -39,6 +39,14 @@ $FontPathOpenSans: "../fonts/open-sans";
 @import '../../../node_modules/npm-font-open-sans/open-sans';
 ```
 
+You can do the same with Stylus too ...
+
+```
+# part of your SCSS file
+$FontPathOpenSans = "../fonts/open-sans";
+@import '../../../node_modules/npm-font-open-sans/open-sans.styl';
+```
+
 
 ## Source of font files
 
