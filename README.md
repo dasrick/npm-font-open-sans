@@ -35,14 +35,14 @@ You can do the same with SCSS/SASS too ...
 
 ```
 # part of your SCSS file
-$FontPathOpenSans: "../fonts/open-sans";
+$FontPathOpenSans: "open-sans/";
 @import '../../../node_modules/npm-font-open-sans/open-sans';
 ```
 
 You can do the same with Stylus too ...
 
 ```
-# part of your SCSS file
+# part of your styl file
 $FontPathOpenSans = "../fonts/open-sans";
 @import '../../../node_modules/npm-font-open-sans/open-sans.styl';
 ```
